@@ -1,0 +1,17 @@
+nav {
+    float: left;
+
+    width: 15%;
+} 
+
+main {
+    float: left;
+
+    width: 36%;
+}
+
+aside {
+    float: left;
+
+    width: 40%;
+}
