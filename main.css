@@ -15,3 +15,9 @@ aside {
 
     width: 40%;
 }
+
+.clearAll {
+    clear: both;
+    text-align: center;
+    padding: 10px;
+}
